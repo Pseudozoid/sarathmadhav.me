@@ -1,1 +1,2 @@
-# Pseudozoid.github.io
+# sarathmadhav.me
+a simple personal website
