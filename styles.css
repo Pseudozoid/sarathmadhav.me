@@ -151,6 +151,7 @@ body {
 }
 
 .post-title {
+  font-family: "Mulish";
   font-size: 24px;
   color: white;
   margin: 0 0 10px;
@@ -163,7 +164,8 @@ body {
 }
 
 .post-content {
-  font-size: 16px;
+  font-family: Roboto-light, monospace;
+  font-size: 14px;
   color: #ddd;
   margin-bottom: 10px;
 }
