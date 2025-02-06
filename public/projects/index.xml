@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>pseudozoid</title>
-    <link>https://sarathmadhav.me/</link>
-    <description>Recent content on pseudozoid</description>
+    <title>Projects on pseudozoid</title>
+    <link>https://sarathmadhav.me/projects/</link>
+    <description>Recent content in Projects on pseudozoid</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Sarath Madhav</copyright>
     <lastBuildDate>Fri, 07 Feb 2025 01:28:06 +0530</lastBuildDate>
-    <atom:link href="https://sarathmadhav.me/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sarathmadhav.me/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>zoid</title>
       <link>https://sarathmadhav.me/projects/zoid/</link>
       <pubDate>Fri, 07 Feb 2025 01:28:06 +0530</pubDate>
       <guid>https://sarathmadhav.me/projects/zoid/</guid>
       <description>&lt;p&gt;A basic shell written in C.&#xA;&lt;a href=&#34;https://github.com/Pseudozoid/zoid&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>hello, world</title>
-      <link>https://sarathmadhav.me/blog/helloworld/</link>
-      <pubDate>Thu, 06 Feb 2025 00:30:32 +0530</pubDate>
-      <guid>https://sarathmadhav.me/blog/helloworld/</guid>
-      <description>&lt;p&gt;To new beginnings!&lt;/p&gt;</description>
     </item>
     <item>
       <title>CLImate</title>

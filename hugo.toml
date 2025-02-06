@@ -51,11 +51,11 @@ url = "https://www.linkedin.com/in/sarath-madhav-11241927b/"
 
 [menu]
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 10
+#  [[menu.main]]
+#    identifier = "about"
+#    name = "About"
+#    url = "/about/"
+#    weight = 10
 
 [taxonomies]
 category = "categories"

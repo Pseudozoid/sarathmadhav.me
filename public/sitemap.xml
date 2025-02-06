@@ -2,22 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://sarathmadhav.me/</loc>
+    <lastmod>2025-02-07T01:28:06+05:30</lastmod>
+  </url><url>
+    <loc>https://sarathmadhav.me/projects/</loc>
+    <lastmod>2025-02-07T01:28:06+05:30</lastmod>
+  </url><url>
+    <loc>https://sarathmadhav.me/projects/zoid/</loc>
+    <lastmod>2025-02-07T01:28:06+05:30</lastmod>
+  </url><url>
+    <loc>https://sarathmadhav.me/blog/</loc>
     <lastmod>2025-02-06T00:30:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/helloworld/</loc>
+    <loc>https://sarathmadhav.me/blog/helloworld/</loc>
     <lastmod>2025-02-06T00:30:32+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-02-06T00:30:32+05:30</lastmod>
+    <loc>https://sarathmadhav.me/projects/climate/</loc>
+    <lastmod>2025-02-02T00:53:59+05:30</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
+    <loc>https://sarathmadhav.me/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://sarathmadhav.me/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://sarathmadhav.me/tags/</loc>
   </url>
 </urlset>
