@@ -2,6 +2,7 @@ baseURL = "https://sarathmadhav.me"
 theme = "risotto"
 title = "pseudozoid"
 author = "Sarath Madhav"
+copyright = "© Sarath Madhav"
 pagination.pagerSize = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -44,9 +45,9 @@ title = "Email"
 url = "sarathmadhavr@gmail.com"
 
 [[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
+icon = "fa-brands fa-linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/sarath-madhav-11241927b/"
 
 [menu]
 
