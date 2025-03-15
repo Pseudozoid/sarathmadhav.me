@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on pseudozoid</title>
-    <link>https://sarathmadhav.me/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on pseudozoid</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Sarath Madhav</copyright>
     <lastBuildDate>Fri, 07 Feb 2025 01:28:06 +0530</lastBuildDate>
-    <atom:link href="https://sarathmadhav.me/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>zoid</title>
-      <link>https://sarathmadhav.me/projects/zoid/</link>
+      <link>http://localhost:1313/projects/zoid/</link>
       <pubDate>Fri, 07 Feb 2025 01:28:06 +0530</pubDate>
-      <guid>https://sarathmadhav.me/projects/zoid/</guid>
+      <guid>http://localhost:1313/projects/zoid/</guid>
       <description>&lt;p&gt;A basic shell written in C.&#xA;&lt;a href=&#34;https://github.com/Pseudozoid/zoid&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>CLImate</title>
-      <link>https://sarathmadhav.me/projects/climate/</link>
+      <link>http://localhost:1313/projects/climate/</link>
       <pubDate>Sun, 02 Feb 2025 00:53:59 +0530</pubDate>
-      <guid>https://sarathmadhav.me/projects/climate/</guid>
+      <guid>http://localhost:1313/projects/climate/</guid>
       <description>&lt;p&gt;CLImate is a simple terminal weather tracker that displays accurate weather data for the city or country of your choice with pretty printed customizable output. Check it out on &lt;a href=&#34;https://github.com/Pseudozoid/CLImate&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

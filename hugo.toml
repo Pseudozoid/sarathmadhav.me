@@ -42,7 +42,7 @@ url = "https://github.com/Pseudozoid"
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
-url = "sarathmadhavr@gmail.com"
+url = "mailto:sarathmadhavr@gmail.com"
 
 [[params.socialLinks]]
 icon = "fa-brands fa-linkedin"
