@@ -1,2 +1,2 @@
 # sarathmadhav.me
-a simple personal website
+My personal website, built with [Hugo](https://gohugo.io/).
